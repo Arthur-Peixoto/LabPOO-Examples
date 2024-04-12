@@ -1,7 +1,5 @@
 <?php
 
-namespace RefactoringGuru\Memento\Conceptual;
-
 /**
  * O Originador mantém um estado importante que pode mudar ao longo do tempo.
  * Também define um método para salvar o estado dentro de um memento e outro
